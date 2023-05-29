@@ -1,5 +1,7 @@
 # 3D Reconstruction of Urban Scenes
 
+![Alt text](/imgs/triangulation.png "")
+![Alt text](/imgs/centaur.png "")
 
 ## Overview
 This repository contains the code for the "3D Recovery of Urban Scenes" project from the Master in Computer Vision at UAB (Module 4: 3D Vision).

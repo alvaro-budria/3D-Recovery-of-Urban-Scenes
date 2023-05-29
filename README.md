@@ -46,9 +46,9 @@ The project is divided into five different weekly deliveries, each contributing 
 
 ### Week 5: Structure from Motion
 
-- [Code](https://github.com/oscarlorente/3D-Reconstruction-of-Urban-Scenes/tree/main/lab5)
+- [Code](/Lab5/)
 
-- [Report](/Lab5/)
+- [Report](/Lab5/MCV_M4_3D_Vision___Lab_5.pdf)
 
 
 ## Final Presentation
